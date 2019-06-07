@@ -1,0 +1,23 @@
+.HomeHero {
+	background-color: #081E26;
+	width: 100vw;
+	height: 100vh;
+	/*padding: 40px;*/
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.ContentContainer {
+	text-align: center;
+}
+
+h1 {
+	color: #5AAC3B;
+}
+
+body {
+	color: #D0EBC6;
+	padding: 0px;
+	margin: 0px;
+}
