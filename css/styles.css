@@ -1,3 +1,7 @@
+body {
+  background-color: #000;
+}
+
 h1 {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -5,7 +9,7 @@ h1 {
   color: hsla(0, 0%, 100%, 0.8);
   font-size: 72px;
   line-height: 96px;
-  font-weight: 900;
+  font-weight: 300;
   text-align: center;
 }
 
@@ -50,7 +54,7 @@ p {
   -webkit-align-items: stretch;
   -ms-flex-align: stretch;
   align-items: stretch;
-  background-image: linear-gradient(135deg, rgba(49, 64, 66, 0.85), rgba(41, 47, 48, 0.85)), url('../images/hugo-kemmel-722253-unsplash.jpg');
+  background-image: linear-gradient(135deg, rgba(49, 64, 66, 0.85), rgba(41, 47, 48, 0.85)), url('../images/hugo-kemmel-722253-unsplash-p-3200.jpeg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -82,6 +86,7 @@ p {
   h1 {
     font-size: 40px;
     line-height: 56px;
+    font-weight: 400;
   }
   h2 {
     font-size: 28px;
@@ -103,4 +108,3 @@ p {
     margin-left: 20px;
   }
 }
-
